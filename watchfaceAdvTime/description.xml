@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+
+	<version>1.0</version>
+	
+
+	<id>watchface</id>
+
+
+	<author>Gabriel Marques</author>
+
+
+	<designer>Gabriel Marques</designer>
+
+
+	<title>AT Watch</title>
+
+
+	<preview>preview.png</preview>
+
+
+	<settings>true</settings>
+
+
+	<description><![CDATA[test watchface description.]]></description>
+
+</watchfaceinfo>
