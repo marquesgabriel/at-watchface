@@ -17,10 +17,10 @@ Criado utilizando o guia neste [Link](https://forum.xda-developers.com/smartwatc
 
 - [x] Criar paleta de 8 cores apra modo standby (GIMP)
 - [x] Criar imagem de fundo em modo standby
-- [ ] Criar imagem de ponteiros em modo standby
-- [ ] Melhorar imagem do ponteiro das horas
-- [ ] Melhorar imagem do ponteiro dos minutos
-- [ ] Melhorar imagem do ponteiro dos segundos
+- [x] Criar imagem de ponteiros em modo standby
+- [x] Melhorar imagem do ponteiro das horas
+- [x] Melhorar imagem do ponteiro dos minutos
+- [x] Melhorar imagem do ponteiro dos segundos
 - [ ] Configurar xml para exibir outros widgets
 
 
